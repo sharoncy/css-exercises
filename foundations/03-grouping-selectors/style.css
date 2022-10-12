@@ -1,0 +1,20 @@
+/*styles*/
+
+/* assign shared attributes to the classes*/
+.first_element
+.second_element {
+    font-size: 28px;
+    font: 'Helvetica' 'Times New Roman' sans-serif;
+}
+
+/* assign unique attributes to the classes*/
+.first_element {
+    background-color: black;
+    color: white;
+}
+
+.second_element{
+    background-color: yellow;
+}
+
+    

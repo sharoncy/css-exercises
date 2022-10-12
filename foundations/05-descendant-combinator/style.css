@@ -1,0 +1,18 @@
+/*Either option works: the first uses class selectors, the second uses type selectors.*/
+
+/*.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}*/
+
+
+div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+
